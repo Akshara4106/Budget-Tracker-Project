@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2025-11-23 00:06:10",
+        "type": "Income",
+        "category": "Salary",
+        "amount": 25000.0
+    },
+    {
+        "date": "2025-11-23 00:06:24",
+        "type": "Expense",
+        "category": "Home Rent",
+        "amount": 3000.0
+    },
+    {
+        "date": "2025-11-23 00:06:38",
+        "type": "Expense",
+        "category": "Electricity Bill, Water Bill",
+        "amount": 4500.0
+    },
+    {
+        "date": "2025-11-23 00:06:53",
+        "type": "Expense",
+        "category": "Other Expenses",
+        "amount": 2000.0
+    },
+    {
+        "date": "2025-11-23 10:59:04",
+        "type": "Income",
+        "category": "Bill",
+        "amount": 2000.0
+    },
+    {
+        "date": "2025-11-23 10:59:26",
+        "type": "Income",
+        "category": "Home Rent",
+        "amount": 2000.0
+    },
+    {
+        "date": "2025-11-23 10:59:39",
+        "type": "Expense",
+        "category": "Groceries",
+        "amount": 35000.0
+    },
+    {
+        "date": "2025-11-23 10:59:48",
+        "type": "Expense",
+        "category": "Other Expenses",
+        "amount": 5000.0
+    }
+]
